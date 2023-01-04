@@ -18,3 +18,11 @@ Create an application that allows the user to create a room and invite his frien
 1. Generate a list of common questions for all the users within the room and sorts them from easiest to hardest.
 1. As soon as the user refreshes the website, he can see the number of questions he has completed.
 1. Once, a user has answered all the questions, the room ends and others can see their progress.
+
+## Tech Stacks
+1. HTML
+1. Bootstrap
+1. NodeJS
+1. ExpressJS
+1. Socket.io
+1. Codeforces API
